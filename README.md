@@ -1,4 +1,5 @@
-# final_project
+# Exploration of factors related to Life Expectancy
+
 Tableau Workbook link: https://public.tableau.com/profile/sreeteja#!/vizhome/FinalProject_15889958372040/Story1
 
 ## Project Summary
